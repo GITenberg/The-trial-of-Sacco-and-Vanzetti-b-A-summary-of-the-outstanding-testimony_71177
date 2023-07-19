@@ -1,0 +1,25 @@
+_repo: The-trial-of-Sacco-and-Vanzetti-b-A-summary-of-the-outstanding-testimony_71177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernheimer, Louis
+    gutenberg_agent_id: '56105'
+    url: http://www.gutenberg.org/2009/agents/56105
+description: ''
+gutenberg_issued: '2023-07-12'
+identifiers:
+  gutenberg: '71177'
+language: en
+pgterms:marc905: 20221023064802bernheimer
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Bob Taylor, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bnot listed, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The trial of Sacco and Vanzetti : $b A summary of the outstanding testimony'
+url: http://www.gutenberg.org/ebooks/71177
