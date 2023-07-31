@@ -1,11 +1,16 @@
 _repo: The-trial-of-Sacco-and-Vanzetti-b-A-summary-of-the-outstanding-testimony_71177
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71177-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernheimer, Louis
     gutenberg_agent_id: '56105'
     url: http://www.gutenberg.org/2009/agents/56105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71177#The-trial-of-Sacco-and-Vanzetti-b-A-summary-of-the-outstanding-testimony
 gutenberg_issued: '2023-07-12'
 identifiers:
   gutenberg: '71177'
